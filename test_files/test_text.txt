@@ -1,0 +1,10 @@
+Test Text File
+==================================================
+
+This is a plain text file for testing.
+It contains multiple lines of text.
+
+Features:
+- Read text files
+- Create new text files
+- Append to existing files
