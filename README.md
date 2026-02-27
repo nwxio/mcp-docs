@@ -17,6 +17,15 @@ It is designed for MCP-compatible AI clients and includes:
 - Generate downloadable short links.
 - Operate all of the above through MCP tools.
 
+## Built for OpenCode
+
+This platform was actively developed and validated for OpenCode agent workflows.
+
+- OpenCode website: https://opencode.ai
+- OpenCode GitHub: https://github.com/anomalyco/opencode
+- Typical usage: run Memory-MCP as MCP backend for OpenCode sessions and reusable memory.
+
+
 ## Components
 
 ### MCP servers
